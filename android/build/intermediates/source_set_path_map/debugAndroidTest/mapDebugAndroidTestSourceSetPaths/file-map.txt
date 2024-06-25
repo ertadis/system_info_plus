@@ -1,0 +1,5 @@
+com.example.system_info_plus.test-androidTest-0 /Users/admin/repos2/system_info_plus/android/build/generated/res/resValues/androidTest/debug
+com.example.system_info_plus.test-mergeDebugAndroidTestResources-1 /Users/admin/repos2/system_info_plus/android/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.system_info_plus.test-mergeDebugAndroidTestResources-2 /Users/admin/repos2/system_info_plus/android/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.system_info_plus.test-debugAndroidTest-3 /Users/admin/repos2/system_info_plus/android/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
+com.example.system_info_plus.test-debug-4 /Users/admin/repos2/system_info_plus/android/build/intermediates/packaged_res/debug/packageDebugResources
